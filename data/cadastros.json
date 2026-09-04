@@ -1,17 +1,7 @@
 [
     {
-        "username": "daniel santos",
-        "password": "281205D@s",
+        "username": "admin",
+        "password": "123321",
         "tipo": "admin"
-    },
-    {
-        "username": "isabela monteiro",
-        "password": "12345",
-        "tipo": "comum"
-    },
-    {
-        "username": "rafael silva",
-        "password": "123",
-        "tipo": "comum"
     }
 ]
