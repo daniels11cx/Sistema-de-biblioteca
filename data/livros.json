@@ -1,0 +1,92 @@
+[
+    {
+        "titulo": "harry potter e a pedra filosofal",
+        "autor": "j.k. rowling",
+        "ano": 1997,
+        "emprestado": false,
+        "emprestado_por": null,
+        "data_emprestimo": null,
+        "data_devolucao": null,
+        "id": 1
+    },
+    {
+        "titulo": "o hobbit",
+        "autor": "j.r.r. tolkien",
+        "ano": 1937,
+        "emprestado": false,
+        "emprestado_por": null,
+        "data_emprestimo": null,
+        "data_devolucao": null,
+        "id": 2
+    },
+    {
+        "titulo": "dom casmurro",
+        "autor": "machado de assis",
+        "ano": 1899,
+        "emprestado": false,
+        "emprestado_por": null,
+        "data_emprestimo": null,
+        "data_devolucao": null,
+        "id": 3
+    },
+    {
+        "titulo": "1984",
+        "autor": "george orwell",
+        "ano": 1949,
+        "emprestado": false,
+        "emprestado_por": null,
+        "data_emprestimo": null,
+        "data_devolucao": null,
+        "id": 4
+    },
+    {
+        "titulo": "o pequeno príncipe",
+        "autor": "antoine de saint-exupéry",
+        "ano": 1943,
+        "emprestado": false,
+        "emprestado_por": null,
+        "data_emprestimo": null,
+        "data_devolucao": null,
+        "id": 5
+    },
+    {
+        "titulo": "senhor dos anéis",
+        "autor": "j.r.r. tolkien",
+        "ano": 1954,
+        "emprestado": false,
+        "emprestado_por": null,
+        "data_emprestimo": null,
+        "data_devolucao": null,
+        "id": 6
+    },
+    {
+        "titulo": "crime e castigo",
+        "autor": "fiódor dostoiévski",
+        "ano": 1866,
+        "emprestado": false,
+        "emprestado_por": null,
+        "data_emprestimo": null,
+        "data_devolucao": null,
+        "id": 7
+    },
+    {
+        "titulo": "orgulho e preconceito",
+        "autor": "jane austen",
+        "ano": 1813,
+        "emprestado": false,
+        "emprestado_por": null,
+        "data_emprestimo": null,
+        "data_devolucao": null,
+        "id": 8
+    },
+    {
+        "titulo": "a revolução dos bichos",
+        "autor": "george orwell",
+        "ano": 1945,
+        "emprestado": false,
+        "emprestado_por": null,
+        "data_emprestimo": null,
+        "data_devolucao": null,
+        "id": 9
+    }
+]

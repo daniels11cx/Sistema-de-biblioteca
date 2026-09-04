@@ -1,0 +1,38 @@
+[
+    {
+        "usuario": "rafael silva",
+        "livro": "harry potter e a pedra filosofal",
+        "acao": "emprestimo",
+        "data": "2026-06-08 17:11:11"
+    },
+    {
+        "usuario": "rafael silva",
+        "livro": "crime e castigo",
+        "acao": "emprestimo",
+        "data": "2026-06-08 17:11:20"
+    },
+    {
+        "usuario": "daniel santos",
+        "livro": "harry potter e a pedra filosofal",
+        "acao": "emprestimo",
+        "data": "2026-06-08 17:15:54"
+    },
+    {
+        "usuario": "rafael silva",
+        "livro": "harry potter e a pedra filosofal",
+        "acao": "emprestimo",
+        "data": "2026-06-08 18:17:11"
+    },
+    {
+        "usuario": "daniel santos",
+        "livro": "harry potter e a pedra filosofal",
+        "acao": "emprestimo",
+        "data": "2026-06-08 20:48:19"
+    },
+    {
+        "usuario": "daniel santos",
+        "livro": "senhor dos anéis",
+        "acao": "emprestimo",
+        "data": "2026-06-08 20:48:28"
+    }
+]
